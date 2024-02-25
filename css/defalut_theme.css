@@ -1,0 +1,48 @@
+.navbar-inverse .navbar-nav > .active > a,
+ .navbar-inverse .navbar-nav > .active > a:hover,
+  .navbar-inverse .navbar-nav > .active > a:focus,
+  .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus,
+  .dropdown-menu .dividerو
+  .navbar-inverse .navbar-nav > li > a,
+  .carousel-indicators .active,
+  .fotter  .fa-google-plus-g,
+  .option-box .cog,.dropdown-menu .divider   {
+    background-color: #E60024;
+}
+
+
+.navbar-brand span,
+.about h1:nth-child(1) span,
+.carousel-inner .nam,
+.up .upp .fa-caret-square-up:hover,
+.fotter h3, .copy span {
+    color: #E60024;
+}
+
+
+
+.dropdown-menu {
+ 
+    border-top:3px solid #E60024;
+  
+}
+
+
+
+.testimonials .carousel-indicators .active,.option-box .color-option{ 
+    border:3px solid #E60024;
+
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
+

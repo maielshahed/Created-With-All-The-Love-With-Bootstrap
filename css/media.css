@@ -1,0 +1,46 @@
+@media(max-width:767px){
+    .navbar-nav > li > a{
+        padding: 10px 0;
+    }
+    .subscribe  .form-inline .form-control{
+        margin: auto;
+    
+    }
+
+    .testimonials .carousel-indicators li:first-child, .testimonials .carousel-indicators li:nth-child(2), .testimonials .carousel-indicators li:nth-child(3), .testimonials .carousel-indicators li:last-child{
+width:80px;
+height:80px;
+    }
+    .testimonials .carousel-indicators li{
+        margin: 5px;
+    }
+
+    .copy span{
+        display: block;
+    }
+    .intro h1{
+        font-size: 50px;
+    }
+
+    .intro p{
+        font-size: 25px;
+    }
+    .hop .simply{
+        margin-top: 30px;
+    }
+    .hop .simply h2{
+        font-size: 25px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px){
+    
+}
+
+@media(min-width:768px) and (max-width:1199px){
+    
+}
+
+@media(min-width:1200px) {
+    
+}

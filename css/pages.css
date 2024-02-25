@@ -1,0 +1,84 @@
+/*start about us*/
+ul, ol{
+    margin-top: 70px;
+}
+.crumbs{ background-color: #F5F5F5; width: 100%;}
+
+.crumbs .breadcrumb{padding: 5px 0;margin-bottom: 0;}
+
+.crumbs .breadcrumb > li{ font-size: 25px;}
+/*end about us*/
+
+/*start about us intro*/
+.intro{margin: 70px;font-weight: bold;}
+.intro h1,.questions h1{
+    font-size: 70px;
+    font-family: 'Bevan',sans-serif;
+   letter-spacing: -3px;
+}
+.intro p{font-size: 35px}
+.intro img{ width: 1100px; height: 600px;}
+/*end about us intro*/
+
+/*start features*/
+.features{padding: 70px 0; background-color: #fff;}
+.features .feat h2,.hop .simply h2{font-size: 30px;font-family: 'Bevan',sans-serif}
+.features .feat{margin-bottom: 20px;}
+/* end start features*/
+
+
+/* start Help You */
+.hop{padding: 50px 0 0 0;background-color: #eee;}
+.hop .simply p{
+    font-size: 25px;
+}
+
+.hop .simply .btn-primary{
+    background-color: #333;
+    margin-bottom: 20px;
+
+}
+.fotter{margin-top: -20px;}
+/*end Help You*/
+
+/*start questions faq*/
+.questions{
+padding: 70px;
+}
+.questions p{
+    font-size: 25px;
+}
+
+.questions .Message h4{
+    background-color: #333;
+    padding: 20px;
+    display: block;
+}
+
+.questions .Message h4 a:hover{
+    color: #eee;
+}
+.questions .searching {
+    background-color: #444;
+    padding: 20px;
+margin-top: -10px;
+}
+
+.questions .Message div{
+    display: none;
+}
+
+.questions .searching p {
+color: #eee;
+}
+
+   
+      .questions .Message a:after{
+        content: "\e114";
+        font-family: 'Glyphicons Halflings';
+        float: right;
+        color: #eee;
+      }
+
+    
+/*end questions faq*/
